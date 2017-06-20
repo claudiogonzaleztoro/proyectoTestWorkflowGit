@@ -1,2 +1,4 @@
 Base:
 texto1
+
+Texto de la historia1
