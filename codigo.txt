@@ -1,4 +1,4 @@
 Base:
 texto1
 
-Texto de la historia1
+Texto de la COSA historia1
